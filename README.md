@@ -8,12 +8,12 @@ This container uses Supervisor to run some background workers that will process 
 
 This should make Imagick be a lot safer to use as:
 
-
-
 * It avoids leaving open web requests for a long time.
 
 * It means that any exploit that exists can't access most of your system.
 
+
+This project is currently a 'proof-of-concept'. It needs quite a bit of work to be made production ready. Issues are here: https://github.com/Danack/ImagickContained/issues
 
 
 ## Adding to docker compose
