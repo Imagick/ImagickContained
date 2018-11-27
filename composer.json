@@ -1,0 +1,9 @@
+{
+  "name": "danack/imagick-contained",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "ImagickContained\\": "libImagickContained/"
+    }
+  }
+}
