@@ -1,5 +1,5 @@
 {
-  "name": "danack/imagick-contained",
+  "name": "imagick/contained",
   "type": "library",
   "autoload": {
     "psr-4": {
